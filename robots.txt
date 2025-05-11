@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bnpnet.github.io/adinacorsate/sitemap.xml
