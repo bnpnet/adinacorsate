@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://bnpnet.github.io/adinacorsate/sitemap.xml
+Allow: /
+
+Sitemap: https://adinacorsate.vercel.app/sitemap.xml
