@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://bnpnet.github.io/adinacorsate/</loc>
-  </url>
-  <url>
-    <loc>https://bnpnet.github.io/adinacorsate/contact</loc>
-  </url>
+  <!-- Vercel -->
+  <url><loc>https://adinacorsate.vercel.app/index.html</loc></url>
+  <url><loc>https://adinacorsate.vercel.app/contact/index.html</loc></url>
+ 
+
 </urlset>
